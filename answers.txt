@@ -1,0 +1,3 @@
+Q1: The file was stored in the container and thus deleted with that container.
+Q2: The proxy is the public entry point and forwards requests to the web service. 
+Q3: An image is the packaged template while a container is a running instance created form it.
